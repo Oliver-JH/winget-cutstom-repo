@@ -1,0 +1,18 @@
+{
+    "PackageIdentifier": "Bandisoft.Honeyview",
+    "PackageVersion": "5.49",
+    "Publisher": "Bandisoft",
+    "PackageName": "Honeyview",
+    "License": "Freeware",
+    "ShortDescription": "A fast image viewer supporting various formats",
+    "InstallerType": "exe",
+    "Installers": [
+        {
+            "Architecture": "x64",
+            "InstallerUrl": "https://www.bandisoft.com/honeyview/HONEYVIEW-SETUP.EXE",
+            "InstallerSha256": "219A7366CD76B0B4A77B12CCCE67D1C9DDB8912B83C8D5D9477B59FA49EBF8F9"
+        }
+    ],
+    "ManifestType": "singleton",
+    "ManifestVersion": "1.0.0"
+}
